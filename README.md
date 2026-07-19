@@ -65,8 +65,8 @@ A logistics company wants to understand how its fleet is performing in terms of 
 ## Repository Contents
 
 - `Cleaned.xlsx` — cleaned source data (Excel)
-- `Fleet_Dashboard.pbix` — Power BI dashboard file
-- `Fleet_Dashboard_Summary.docx` — one-page project summary
+- `ModuleEnd.pbix` — Power BI dashboard file
+- `Fleet_Dashboard_Summary.pdf` — one-page project summary
 - `images/` — dashboard and data model screenshots
 - `README.md` — this file
 
