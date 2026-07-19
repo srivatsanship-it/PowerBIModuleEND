@@ -69,3 +69,5 @@ A logistics company wants to understand how its fleet is performing in terms of 
 - `Fleet_Dashboard_Summary.docx` — one-page project summary
 - `images/` — dashboard and data model screenshots
 - `README.md` — this file
+
+Author: Srivatsan Saravanan, a Data Analystics Learner
